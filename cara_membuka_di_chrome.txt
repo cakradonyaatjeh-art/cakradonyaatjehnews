@@ -1,0 +1,26 @@
+PORTAL MEDIA YAYASAN CAKRA DONYA ATJEH
+
+CARA MEMBUKA DI HP ANDROID (CHROME)
+1. Unduh ZIP ini ke HP.
+2. Buka aplikasi File / Pengelola File > Download.
+3. Ketuk ZIP lalu pilih Ekstrak.
+4. Buka folder hasil ekstrak.
+5. Ketuk index.html > pilih Chrome (atau Buka dengan Chrome).
+6. Untuk mengelola berita, kembali ke folder yang sama lalu buka admin.html.
+
+LOGIN ADMIN LOKAL
+Username: admincda
+Password: CDA-Atjeh-2026!
+Jika sebelumnya memasukkan tanpa tanda seru, versi ini juga menerima CDA-Atjeh-2026.
+
+FITUR
+- Portal berita responsif untuk layar HP dan komputer.
+- Admin: tambah, edit, hapus berita.
+- Unggah foto utama berita.
+- Berita yang diterbitkan tampil di beranda pada browser/perangkat yang sama.
+- Penyimpanan lokal browser.
+
+PENTING
+Ini adalah paket situs lokal/offline untuk dibuka melalui Chrome setelah ZIP diekstrak. Data tersimpan di browser/perangkat yang sama. Jika Chrome mengisolasi penyimpanan file lokal, buka portal dan admin dari folder hasil ekstrak yang sama dan gunakan Chrome yang sama. Jangan hapus data situs/browser jika ingin mempertahankan berita.
+
+Agar berita dapat diakses publik melalui internet, domain/hosting dan database online tetap diperlukan. Login dalam paket lokal ini hanya untuk uji coba, bukan keamanan untuk website publik.

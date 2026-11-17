@@ -1,0 +1,27 @@
+PORTAL MEDIA YAYASAN CAKRA DONYA ATJEH
+
+ISI PAKET
+- index.html   : halaman depan portal berita
+- admin.html   : halaman login dan dashboard pengelola
+- style.css    : desain portal responsif untuk HP dan komputer
+- script.js    : menampilkan berita dari penyimpanan browser
+- admin.css    : desain dashboard admin
+- admin.js     : fungsi tambah, edit, hapus berita dan unggah foto
+
+CARA MENCOBA DI PERANGKAT YANG SAMA
+1. Ekstrak ZIP ke satu folder. Jangan pisahkan file-file di dalamnya.
+2. Buka index.html dengan browser untuk melihat portal.
+3. Buka admin.html untuk masuk ke dashboard.
+4. Akun DEMO: username admincda | password CDA-Atjeh-2026!
+5. Buat berita, pilih foto, lalu tekan Simpan Berita.
+6. Kembali ke index.html dan muat ulang untuk melihat berita.
+
+BATASAN PENTING — HARUS DIBACA
+Paket ini adalah PROTOTIPE FRONT-END untuk uji tampilan dan alur kerja. Berita dan foto disimpan di localStorage browser/perangkat yang sedang digunakan. Artinya:
+- Berita tidak otomatis muncul di HP atau komputer orang lain.
+- Data dapat hilang jika data situs/browser dibersihkan.
+- Login contoh di JavaScript BUKAN keamanan sungguhan; jangan unggah versi ini sebagai admin publik.
+- File lokal dengan alamat content://... bukan alamat website publik.
+
+AGAR MENJADI PORTAL ONLINE SUNGGUHAN
+Diperlukan hosting/domain dan backend/database dengan autentikasi admin yang aman. Setelah itu formulir admin harus dihubungkan ke database dan penyimpanan foto online. Jangan kirim password pribadi melalui chat. Untuk tahap pemasangan, siapkan akses hosting/domain atau pilih layanan hosting dan backend; kredensial rahasia sebaiknya dimasukkan langsung oleh pemilik akun pada dashboard layanan.
